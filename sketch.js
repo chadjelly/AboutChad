@@ -99,11 +99,11 @@ function setup() {
     }
   ];
   
-  applePic = createImg('apple.png');
+  applePic = createImg('apple.png',"apple");
   applePic.style('width',"19px");
   applePic.style('height',"19px");
   
-  sHeadPic = createImg('paul.png');
+  sHeadPic = createImg('paul.png',"paul");
   sHeadPic.style('width',"19px");
   sHeadPic.style('height',"19px");
 }
