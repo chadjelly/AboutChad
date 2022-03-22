@@ -291,24 +291,6 @@ function keyPressed() {
   }
 }
 
-
-function cover() {
-  curPage = 0;
-  
-}
-
-function birth() {
-  curPage = 1;
-  fill(0,0,0);
-  rect(50,50,50,50);
-}
-
-
-function family() {
-  curPage = 2;
-  
-}
-
 function hobbies() {
   curPage = 3;
   
